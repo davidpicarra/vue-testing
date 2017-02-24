@@ -4319,7 +4319,7 @@ vue-style-loader@^2.0.0:
     hash-sum "^1.0.2"
     loader-utils "^1.0.2"
 
-vue-template-compiler@^2.2.0-beta.1:
+vue-template-compiler@beta:
   version "2.2.0-beta.1"
   resolved "https://registry.yarnpkg.com/vue-template-compiler/-/vue-template-compiler-2.2.0-beta.1.tgz#0c7de534c0b34405035c37c2f3e03efb75860d57"
   dependencies:
